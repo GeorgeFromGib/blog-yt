@@ -52,7 +52,6 @@ export const About = (props: Props) => {
                     tincidunt. Nunc mi ipsum faucibus vitae aliquet nec.
                 </p>
             </div>
-            {/* </motion.div> */}
         </SectionDiv>
     );
 };

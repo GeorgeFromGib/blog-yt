@@ -23,7 +23,7 @@ export const Hero = (props: Props) => {
         justify-center text-center overflow-hidden">
             <BackgroundCircles/>
             <Image className="relative rounded-full h-32 w-32 mx-auto object-cover"
-                   src={georgeProfile} alt=""/>
+                   src={georgeProfile} alt="" priority/>
             <div className="z-20">
                 <h2 className="text-sm uppercase text-gray-500 tracking-[15px]">
                     Freelance Developer</h2>
